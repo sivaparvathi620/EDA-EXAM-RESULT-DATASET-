@@ -1,4 +1,2 @@
 # EDA-EXAM-RESULT-DATASET-
 
-# EXPLORATORY DATA ANALYSIS
-# College Exam Result Dataset 
