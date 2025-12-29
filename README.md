@@ -1,9 +1,9 @@
-📊 Exploratory Data Analysis on College Exam Results
+# 📊 Exploratory Data Analysis on College Exam Results
 📌 Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a college exam results dataset to understand student academic performance across different semesters. The analysis helps uncover patterns, trends, correlations, and outliers in student scores.
 
-📂 Dataset Description
+# 📂 Dataset Description
 
 The dataset contains:
 
