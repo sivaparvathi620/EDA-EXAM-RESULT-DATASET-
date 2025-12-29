@@ -96,3 +96,12 @@ Grade-to-numeric mapping for deeper analysis
 Predictive modeling on student performance
 
 Dashboard creation using Power BI or Tableau
+
+# 📌 Author
+
+## Siva Parvathi
+## GitHub:https://github.com/sivaparvathi620/
+
+
+
+
